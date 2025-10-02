@@ -1,4 +1,4 @@
-# challenge-telecom-x-an-lise-de-evas-o-de-clientes
+# Challenge Telecom X: Análise de Evasão de Clientes
 # 📊 Telecom X – ETL e Análise de Churn  
 
 Este projeto foi desenvolvido como parte do desafio do programa **Oracle Next Education + Alura**, com foco no processo de **ETL (Extract, Transform, Load)** e análise da evasão de clientes (churn) da empresa fictícia **Telecom X**.  
